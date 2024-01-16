@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(241, 241, 241);
+}
+
+
+
+header h5 {
+    text-decoration: underline;
+    text-align: end;
+    font-size: 30px;
+    font-style: oblique;
+    color: white;
+    
+    position: relative;
+    bottom: 0;
+    right: 0;
+}
+
+header {
+    padding: 40px;
+    
+    height: 60vh;    
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://wallpaper.dog/large/17008299.jpg);
+    background-image: url(https://pbs.twimg.com/media/FrggMmIXwAE_n3M?format=jpg&name=medium) ;
+    background-blend-mode: overlay;
+}
+
+h2 { text-decoration: underline;
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+    color: rgb(10, 0, 0);
+}
+
+
+  #review{
+    text-align: center;
+    ;
+  }
+
+  textarea {
+    background-color: aliceblue;
+    background-color: aliceblue;
+    border: 2px solid black;
+  }
+
+  input[type=text] {
+    background-color: aliceblue;
+    border: 2px solid black;
+  border-radius: 4px;
+  }
+
+  input[type=email] {
+    background-color: aliceblue;
+    background-color: aliceblue;
+    border: 2px solid black;
+  }
+
+  select {
+    width: 100%;
+    padding: 16px 20px;
+    border: 2px solid blacke;
+    border-radius: 4px;
+    background-color: aliceblue;
+  }
+
+  #button{
+    text-align: center;
+    
+    ;
+  }
+
+  input[type=range] {
+    width: 60%;
+    
+  }
+
+#home {
+    text-align: right;
+  }
+  
+
+  #range{
+    text-align: center;
+  }
+  
+
+
+  
+
+    
+    

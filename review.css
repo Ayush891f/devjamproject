@@ -1,0 +1,35 @@
+body {
+    background-color: lightgreen;
+}
+
+#thankyou {
+    text-align: center;
+    color:black;
+    font-size: 80px;
+    font-style: oblique;
+    padding: 100px;
+    
+
+}
+
+#ty {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-style: oblique;
+    padding: 2px;
+
+}
+
+#links {
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-style: oblique;
+    padding: 2px;
+
+}
+
+
+
+
